@@ -6,6 +6,8 @@ Documentation [https://www.hockeycomputindo.com/2022/04/membuat-website-blog-den
 
 Tes demo [https://axcora.my.id/pico/cuteblog/php →](https://axcora.my.id/pico/cuteblog/php/)
 
+Play Video [https://www.youtube.com/watch?v=KqDmkvVA7XU →](https://www.youtube.com/watch?v=KqDmkvVA7XU)
+
 ![cuteblog for php](cuteblogphp.jpg)
 
 --------------------------
@@ -30,3 +32,5 @@ Mobile version
 Documentation [https://www.hockeycomputindo.com/2022/04/membuat-website-blog-dengan-php-cepat.html →](https://www.hockeycomputindo.com/2022/04/membuat-website-blog-dengan-php-cepat.html)
 
 Tes demo [https://axcora.my.id/pico/cuteblog/php →](https://axcora.my.id/pico/cuteblog/php/)
+
+Play Video [https://www.youtube.com/watch?v=KqDmkvVA7XU →](https://www.youtube.com/watch?v=KqDmkvVA7XU)
