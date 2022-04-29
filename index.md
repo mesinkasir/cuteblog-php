@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Cuteblog 🥳 PHP Native
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/cuteblog-php/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A simple blog for native PHP lovers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Documentation [https://www.hockeycomputindo.com/2022/04/membuat-website-blog-dengan-php-cepat.html →](https://www.hockeycomputindo.com/2022/04/membuat-website-blog-dengan-php-cepat.html)
 
-### Markdown
+Tes demo [https://axcora.my.id/pico/cuteblog/php →](https://axcora.my.id/pico/cuteblog/php/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Play Video [https://www.youtube.com/watch?v=KqDmkvVA7XU →](https://www.youtube.com/watch?v=KqDmkvVA7XU)
 
-```markdown
-Syntax highlighted code block
+![cuteblog for php](cuteblogphp.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+--------------------------
 
-- Bulleted
-- List
+DISPLAY
 
-1. Numbered
-2. List
+![cuteblgo for php](1.png)
 
-**Bold** and _Italic_ and `Code` text
+Home page
 
-[Link](url) and ![Image](src)
-```
+![cuteblgo for php](2.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Article page
 
-### Jekyll Themes
+![cuteblgo for php](3.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/cuteblog-php/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mobile version
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--------------------------
+
+Documentation [https://www.hockeycomputindo.com/2022/04/membuat-website-blog-dengan-php-cepat.html →](https://www.hockeycomputindo.com/2022/04/membuat-website-blog-dengan-php-cepat.html)
+
+Tes demo [https://axcora.my.id/pico/cuteblog/php →](https://axcora.my.id/pico/cuteblog/php/)
+
+Play Video [https://www.youtube.com/watch?v=KqDmkvVA7XU →](https://www.youtube.com/watch?v=KqDmkvVA7XU)
